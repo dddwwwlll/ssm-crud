@@ -1,0 +1,16 @@
+com\dwl\crud\entity\EmployeeExample.class
+com\dwl\crud\entity\Employee.class
+com\dwl\crud\controller\EmployeeController.class
+com\dwl\crud\entity\DepartmentExample$Criteria.class
+com\dwl\crud\entity\EmployeeExample$Criterion.class
+com\dwl\crud\entity\DepartmentExample.class
+com\dwl\crud\entity\EmployeeExample$GeneratedCriteria.class
+com\dwl\crud\mapper\DepartmentMapper.class
+com\dwl\crud\service\EmployeeService.class
+com\dwl\crud\entity\DepartmentExample$Criterion.class
+com\dwl\crud\entity\EmployeeExample$Criteria.class
+com\dwl\crud\entity\Department.class
+com\dwl\crud\entity\DepartmentExample$GeneratedCriteria.class
+com\dwl\crud\service\impl\EmployeeServiceImplement.class
+com\dwl\crud\test\MBGTest.class
+com\dwl\crud\mapper\EmployeeMapper.class
